@@ -1,8 +1,8 @@
-gradio==3.1.4
-pandas==1.5.3
-textblob==0.17.1
-wordcloud==1.8.2.2
-matplotlib==3.7.1
-nltk==3.8.1
-scikit-learn==1.2.2
-sumy==0.8.1
+gradio
+pandas
+textblob
+wordcloud
+matplotlib
+nltk
+scikit-learn
+sumy
