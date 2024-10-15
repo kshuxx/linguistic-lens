@@ -142,3 +142,6 @@ cython_debug/
 
 # worldcloud
 wordcloud.png
+
+# Others
+flagged/
